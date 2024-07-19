@@ -1,0 +1,40 @@
+Age,Gender,MaritalStatus,Occupation,CarMake,CarModel,YearOfManufacture,VehicleValue,AnnualMileage,DrivingExperience,NumberOfClaims,NumberOfTrafficViolations,AnnualPremium,CoverageType,Location
+25,Male,Single,Engineer,Ford,Fiesta,2018,15000,12000,7,1,0,500,Comprehensive,London
+34,Female,Married,Teacher,Toyota,Corolla,2015,12000,10000,10,0,1,450,Third-Party,Manchester
+45,Male,Married,Accountant,BMW,3 Series,2019,30000,8000,20,2,0,1200,Comprehensive,Birmingham
+29,Female,Single,Doctor,Honda,Civic,2020,18000,15000,8,1,2,550,Comprehensive,Leeds
+40,Male,Married,Manager,Mercedes,C Class,2016,35000,7000,22,0,0,1100,Comprehensive,Glasgow
+50,Female,Married,Nurse,Audi,A4,2017,27000,11000,30,1,1,1000,Comprehensive,Newcastle
+23,Male,Single,Student,Volkswagen,Golf,2014,14000,20000,5,3,2,800,Third-Party,Sheffield
+60,Female,Married,Retired,Ford,Focus,2012,10000,5000,35,0,0,750,Comprehensive,Bristol
+33,Male,Married,IT Specialist,Tesla,Model 3,2021,50000,12000,12,1,0,1300,Comprehensive,Nottingham
+48,Female,Married,Salesperson,Nissan,Altima,2013,16000,16000,25,2,3,900,Comprehensive,Cardiff
+37,Male,Single,Construction Worker,Chevrolet,Impala,2011,20000,25000,15,1,1,700,Third-Party,Southampton
+28,Female,Single,Graphic Designer,Hyundai,Elantra,2017,17000,10000,9,1,0,600,Comprehensive,Edinburgh
+55,Male,Married,Driver,Honda,Accord,2010,22000,15000,35,0,2,950,Comprehensive,Glasgow
+30,Female,Married,Lawyer,Subaru,Outback,2019,25000,12000,11,0,1,850,Comprehensive,Belfast
+26,Male,Single,Chef,Jeep,Wrangler,2018,30000,20000,6,2,3,1200,Comprehensive,London
+42,Female,Married,Pharmacist,Mazda,3,2015,20000,13000,20,1,0,500,Third-Party,Manchester
+35,Male,Single,Freelancer,Kia,Sorento,2016,22000,15000,14,0,1,700,Comprehensive,Leeds
+44,Female,Married,Consultant,Hyundai,Santa Fe,2014,19000,17000,18,1,2,800,Comprehensive,Newcastle
+32,Male,Single,Entrepreneur,Dodge,Charger,2020,32000,12000,10,2,1,1300,Comprehensive,Bristol
+29,Female,Single,Photographer,Volkswagen,Passat,2019,25000,15000,9,1,0,700,Comprehensive,Southampton
+24,Male,Single,Intern,Fiat,500,2019,12000,8000,3,0,1,400,Third-Party,London
+31,Female,Married,Administrator,Peugeot,208,2018,14000,11000,10,0,2,520,Comprehensive,Glasgow
+39,Male,Married,Marketing Specialist,Land Rover,Discovery,2017,40000,15000,15,1,1,1050,Comprehensive,Cardiff
+27,Female,Single,Public Relations,Mini,Cooper,2021,23000,7000,6,0,0,600,Comprehensive,Manchester
+52,Male,Married,Construction Manager,Volvo,XC60,2015,28000,12000,25,2,3,1150,Comprehensive,Belfast
+41,Female,Married,Insurance Agent,Honda,Civic,2016,16000,9000,18,1,2,600,Comprehensive,Nottingham
+38,Male,Single,IT Consultant,Jaguar,XE,2020,35000,10000,12,0,1,950,Comprehensive,Sheffield
+29,Female,Single,Marketing Analyst,Opel,Astra,2017,17000,13000,8,1,0,650,Third-Party,Southampton
+46,Male,Married,Electrical Engineer,Audi,Q5,2018,34000,11000,20,2,2,1200,Comprehensive,London
+33,Female,Single,Project Manager,Hyundai,Tucson,2019,22000,14000,12,0,1,700,Comprehensive,Edinburgh
+54,Male,Married,Teacher,Skoda,Octavia,2014,25000,15000,30,1,3,900,Comprehensive,Newcastle
+27,Female,Single,Data Scientist,Nissan,Juke,2021,20000,10000,5,0,0,650,Comprehensive,Cardiff
+43,Male,Married,Researcher,Volkswagen,Arteon,2019,35000,8000,17,1,1,950,Comprehensive,Manchester
+30,Female,Single,Receptionist,Mazda,CX-5,2016,19000,12000,9,1,2,700,Third-Party,Leeds
+40,Male,Married,Consultant,Peugeot,3008,2018,27000,10000,18,0,1,800,Comprehensive,Southampton
+25,Female,Single,Web Developer,Renault,Clio,2019,16000,7000,7,0,1,500,Third-Party,Bristol
+35,Male,Married,Engineer,Seat,Leon,2017,18000,12000,13,2,0,750,Comprehensive,Glasgow
+49,Female,Married,Artist,Smart,ForFour,2016,12000,8000,22,1,0,550,Third-Party,London
+21,Male,Single,Student,Fiat,Panda,2021,10000,15000,2,0,2,400,Third-Party,Sheffield
